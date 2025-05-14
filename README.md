@@ -21,4 +21,4 @@ This project involves analyzing the **Iris dataset** using **Pandas** and **Matp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iris-analysis.git
+   git clone https://github.com/jackie-336/iris-analysis.git
